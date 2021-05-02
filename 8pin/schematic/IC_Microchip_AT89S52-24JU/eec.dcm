@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT89S52-24JU
+D AT89S52-24JU
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc1919.pdf
+$ENDCMP
+# end doc library
