@@ -1,0 +1,5 @@
+*.bak
+*.bck
+*.sch-bak
+fp-info-cache
+sym-lib-table
